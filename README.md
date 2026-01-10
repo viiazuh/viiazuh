@@ -58,8 +58,9 @@
 </p>
 
 
-<img src="https://stats.dooboo.io/api/github-stats-advanced?login=viiazuh" />
-
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=viiazuh&layout=compact&theme=dark&hide_border=true" 
+/>
 
 
 ---
