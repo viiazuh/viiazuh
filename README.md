@@ -14,39 +14,43 @@
 *Membangun aplikasi web mulai dari UI (FE) hingga logic server (BE) dan Database.*
 
 <p align="left"> 
-  <img src="raw.githubusercontent.com" alt="javascript" width="40" height="40"/> 
-  <img src="raw.githubusercontent.com" alt="react" width="40" height="40"/> 
-  <img src="raw.githubusercontent.com" alt="vuejs" width="40" height="40"/> 
-  <img src="raw.githubusercontent.com" alt="flask" width="40" height="40"/>
-  <img src="raw.githubusercontent.com" alt="nodejs" width="40" height="40"/>
-  <img src="raw.githubusercontent.com" alt="mysql" width="40" height="40"/>
-  <img src="www.vectorlogo.zone" alt="sqlite" width="40" height="40"/>
+  <img src="cdn.jsdelivr.net" alt="html5" width="40" height="40""")/>>
+  <img src="cdn.jsdelivr.net" alt="css3" width="40" height="40""")/>>
+  <img src="cdn.jsdelivr.net" alt="javascript" width="40" height="40""")/>> 
+  <img src="cdn.jsdelivr.net" alt="react" width="40" height="40""")/>> 
+  <img src="cdn.jsdelivr.net" alt="vuejs" width="40" height="40""")/>> 
+  <img src="cdn.jsdelivr.net" alt="flask" width="40" height="40""")/>>
+  <img src="cdn.jsdelivr.net" alt="nodejs" width="40" height="40""")/>>
+  <img src="cdn.jsdelivr.net" alt="mysql" width="40" height="40""")/>>
+  <img src="cdn.jsdelivr.net" alt="sqlite" width="40" height="40""")/>>
 </p>
 
 ### 📱 Mobile Development
 *Fokus pada pengembangan aplikasi native dan cross-platform yang efisien.*
 
 <p align="left"> 
-  <img src="www.vectorlogo.zone" alt="flutter" width="40" height="40"/> 
-  <img src="www.vectorlogo.zone" alt="kotlin" width="40" height="40"/> 
-  <img src="www.vectorlogo.zone" alt="dart" width="40" height="40"/> 
-  <img src="raw.githubusercontent.com" alt="android" width="40" height="40"/>
+  <img src="cdn.jsdelivr.net" alt="flutter" width="40" height="40""")/>> 
+  <img src="cdn.jsdelivr.net" alt="kotlin" width="40" height="40""")/>> 
+  <img src="cdn.jsdelivr.net" alt="dart" width="40" height="40""")/>> 
+  <img src="cdn.jsdelivr.net" alt="android" width="40" height="40""")/>>
 </p>
 
 ### ☁️ Cloud, Storage & OS
+
 <p align="left">
-  <img src="www.vectorlogo.zone" alt="firebase" width="40" height="40"/>
-  <img src="www.vectorlogo.zone" alt="cloudinary" width="40" height="40"/>
-  <img src="www.vectorlogo.zone" alt="garuda" width="40" height="40"/>
-  <img src="raw.githubusercontent.com" alt="linux" width="40" height="40"/>
+  <img src="cdn.jsdelivr.net" alt="firebase" width="40" height="40""")/>>
+  <img src="cdn.jsdelivr.net" alt="cloudinary" width="40" height="40""")/>>
+  <img src="cdn.jsdelivr.net" alt="linux" width="40" height="40""")/>>
+  <img src="www.vectorlogo.zone" alt="garuda" width="40" height="40""")/>>
 </p>
 
 ### 🛠️ Tools & Utility
+
 <p align="left"> 
-  <img src="www.vectorlogo.zone" alt="git" width="40" height="40"/> 
-  <img src="www.vectorlogo.zone" alt="tailwind" width="40" height="40"/> 
-  <img src="raw.githubusercontent.com" alt="bootstrap" width="40" height="40"/>
-  <img src="raw.githubusercontent.com" alt="vscode" width="40" height="40"/>
+  <img src="cdn.jsdelivr.net" alt="git" width="40" height="40""")/>> 
+  <img src="cdn.jsdelivr.net" alt="tailwind" width="40" height="40""")/>> 
+  <img src="cdn.jsdelivr.net" alt="bootstrap" width="40" height="40""")/>>
+  <img src="cdn.jsdelivr.net" alt="vscode" width="40" height="40""")/>>
 </p>
 
 ---
