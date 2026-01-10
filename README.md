@@ -7,7 +7,7 @@
 - 🌱 Tech Stack Focus  **📱 Mobile (Flutter/Kotlin) | 💻 Web Fullstack | 🚀 Building scalable apps.**
 - 💬 Ask me about **Anything you like**
 - 📫 How to reach me **vioazuhri22@gmail.com**
-- 🔗 Portofolio: **vio-azuhri.vercel.app**
+- 🔗 Portofolio: **https://vio-azuhri.vercel.app/**
 
 ---
 
@@ -43,9 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudinary.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Garuda_Linux_logo.svg/512px-Garuda_Linux_logo.svg.png" width="40"/>
-
-
+  <img src="https://raw.githubusercontent.com/garudalinux/artwork/master/logos/png/garuda-logo.png" width="40"/>
 </p>
 
 
