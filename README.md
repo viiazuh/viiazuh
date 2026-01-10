@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viiazuh&label=Profile%20views&color=0e75b6&style=flat" alt="viiazuh" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Kotlin Mobile Application Development**
+- 🌱 Tech Stack Focus  **📱 Mobile (Flutter/Kotlin) | 💻 Web Fullstack | 🚀 Building scalable apps.**
 
 - 💬 Ask me about **Anything you like**
 
 - 📫 How to reach me Email **vioazuhri22@gmail.com**
+
+- 🔗  https://vio-azuhri.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
