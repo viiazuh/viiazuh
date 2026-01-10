@@ -15,16 +15,17 @@
 *Membangun aplikasi web mulai dari UI (FE) hingga logic server (BE) dan Database.*
 
 <p align="left"> 
-  <img src="raw.githubusercontent.com" alt="html5" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="css3" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="javascript" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="react" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="vuejs" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="flask" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="nodejs" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="mysql" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="sqlite" width="40" height="40""")/>>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 </p>
+
 
 ### 📱 Mobile Development
 *Fokus pada pengembangan aplikasi native dan cross-platform yang efisien.*
