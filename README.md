@@ -57,9 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=viiazuh&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" 
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viiazuh&theme=tokyonight" />
 
 ---
 <h3 align="left">Connect with me:</h3>
