@@ -30,29 +30,30 @@
 ### 📱 Mobile Development
 *Fokus pada pengembangan aplikasi native dan cross-platform yang efisien.*
 
-<p align="left"> 
-  <img src="raw.githubusercontent.com" alt="flutter" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="kotlin" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="dart" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="android" width="40" height="40""")/>>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
 </p>
 
 ### ☁️ Cloud, Storage & OS
 
 <p align="left">
-  <img src="raw.githubusercontent.com" alt="firebase" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="cloudinary" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="linux" width="40" height="40""")/>>
-  <img src="www.vectorlogo.zone" alt="garuda" width="40" height="40""")/>>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Garuda_Linux_logo.svg" width="40"/>
 </p>
+
 
 ### 🛠️ Tools & Utility
 
-<p align="left"> 
-  <img src="raw.githubusercontent.com" alt="git" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="tailwind" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="bootstrap" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="vscode" width="40" height="40""")/>>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Garuda_Linux_logo.svg" width="40"/>
 </p>
 
 ---
