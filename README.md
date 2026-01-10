@@ -41,9 +41,10 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudinary.svg" width="40" style="filter: invert(36%) sepia(93%) saturate(746%) hue-rotate(188deg) brightness(92%) contrast(95%);"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudinary.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/garudalinux/artwork/master/logos/garuda-logo.svg" width="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Garuda_Linux_logo.svg/512px-Garuda_Linux_logo.svg.png" width="40"/>
+
 
 </p>
 
