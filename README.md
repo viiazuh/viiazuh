@@ -57,6 +57,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
 
+
+## 💻 My Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viiazuh&layout=compact&theme=tokyonight)
+
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
