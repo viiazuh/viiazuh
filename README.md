@@ -60,7 +60,7 @@
 
 ## 💻 My Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viiazuh&layout=compact&theme=tokyonight)
+![Top Langs](https://github.com/viiazuh)
 
 
 ---
