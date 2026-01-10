@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
 <h3 align="center">A beginner developer from Indonesia</h3>
 
+<!-- PASTIKAN URL INI ADA PERSIS SEPERTI INI, INI VIEW COUNTER KAMU -->
 <p align="left"> <img src="komarev.com" alt="viiazuh" /> </p>
 
 - 🌱 Tech Stack Focus  **📱 Mobile (Flutter/Kotlin) | 💻 Web Fullstack | 🚀 Building scalable apps.**
@@ -14,43 +15,44 @@
 *Membangun aplikasi web mulai dari UI (FE) hingga logic server (BE) dan Database.*
 
 <p align="left"> 
-  <img src="cdn.jsdelivr.net" alt="html5" width="40" height="40""")/>>
-  <img src="cdn.jsdelivr.net" alt="css3" width="40" height="40""")/>>
-  <img src="cdn.jsdelivr.net" alt="javascript" width="40" height="40""")/>> 
-  <img src="cdn.jsdelivr.net" alt="react" width="40" height="40""")/>> 
-  <img src="cdn.jsdelivr.net" alt="vuejs" width="40" height="40""")/>> 
-  <img src="cdn.jsdelivr.net" alt="flask" width="40" height="40""")/>>
-  <img src="cdn.jsdelivr.net" alt="nodejs" width="40" height="40""")/>>
-  <img src="cdn.jsdelivr.net" alt="mysql" width="40" height="40""")/>>
-  <img src="cdn.jsdelivr.net" alt="sqlite" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="html5" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="css3" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="javascript" width="40" height="40""")/>> 
+  <img src="raw.githubusercontent.com" alt="react" width="40" height="40""")/>> 
+  <img src="raw.githubusercontent.com" alt="vuejs" width="40" height="40""")/>> 
+  <img src="raw.githubusercontent.com" alt="flask" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="nodejs" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="mysql" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="sqlite" width="40" height="40""")/>>
 </p>
 
 ### 📱 Mobile Development
 *Fokus pada pengembangan aplikasi native dan cross-platform yang efisien.*
 
 <p align="left"> 
-  <img src="cdn.jsdelivr.net" alt="flutter" width="40" height="40""")/>> 
-  <img src="cdn.jsdelivr.net" alt="kotlin" width="40" height="40""")/>> 
-  <img src="cdn.jsdelivr.net" alt="dart" width="40" height="40""")/>> 
-  <img src="cdn.jsdelivr.net" alt="android" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="flutter" width="40" height="40""")/>> 
+  <img src="raw.githubusercontent.com" alt="kotlin" width="40" height="40""")/>> 
+  <img src="raw.githubusercontent.com" alt="dart" width="40" height="40""")/>> 
+  <img src="raw.githubusercontent.com" alt="android" width="40" height="40""")/>>
 </p>
 
 ### ☁️ Cloud, Storage & OS
 
 <p align="left">
-  <img src="cdn.jsdelivr.net" alt="firebase" width="40" height="40""")/>>
-  <img src="cdn.jsdelivr.net" alt="cloudinary" width="40" height="40""")/>>
-  <img src="cdn.jsdelivr.net" alt="linux" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="firebase" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="cloudinary" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="linux" width="40" height="40""")/>>
+  <!-- Menggunakan logo vectorzone yang lebih stabil untuk Garuda Linux -->
   <img src="www.vectorlogo.zone" alt="garuda" width="40" height="40""")/>>
 </p>
 
 ### 🛠️ Tools & Utility
 
 <p align="left"> 
-  <img src="cdn.jsdelivr.net" alt="git" width="40" height="40""")/>> 
-  <img src="cdn.jsdelivr.net" alt="tailwind" width="40" height="40""")/>> 
-  <img src="cdn.jsdelivr.net" alt="bootstrap" width="40" height="40""")/>>
-  <img src="cdn.jsdelivr.net" alt="vscode" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="git" width="40" height="40""")/>> 
+  <img src="raw.githubusercontent.com" alt="tailwind" width="40" height="40""")/>> 
+  <img src="raw.githubusercontent.com" alt="bootstrap" width="40" height="40""")/>>
+  <img src="raw.githubusercontent.com" alt="vscode" width="40" height="40""")/>>
 </p>
 
 ---
