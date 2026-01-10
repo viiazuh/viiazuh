@@ -57,10 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viiazuh&theme=tokyonight" />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=viiazuh&layout=compact&theme=dark&hide_border=true" 
-/>
 
 
 ---
