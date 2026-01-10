@@ -1,65 +1,62 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
 <h3 align="center">A beginner developer from Indonesia</h3>
 
-<!-- PASTIKAN URL INI ADA PERSIS SEPERTI INI, INI VIEW COUNTER KAMU -->
-<p align="left"> <img src="komarev.com" alt="viiazuh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viiazuh&label=Profile%20views&color=0e75b6&style=flat" alt="viiazuh" /> </p>
 
 - 🌱 Tech Stack Focus  **📱 Mobile (Flutter/Kotlin) | 💻 Web Fullstack | 🚀 Building scalable apps.**
 - 💬 Ask me about **Anything you like**
 - 📫 How to reach me **vioazuhri22@gmail.com**
-- 🔗 Portofolio: **vio-azuhri.vercel.app**
+- 🌐 Portfolio **[vio-azuhri.vercel.app](https://vio-azuhri.vercel.app/)**
 
 ---
 
 ### 💻 Full-Stack Development
 *Membangun aplikasi web mulai dari UI (FE) hingga logic server (BE) dan Database.*
 
-<p align="left"> 
-  <img src="raw.githubusercontent.com" alt="html5" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="css3" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="javascript" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="react" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="vuejs" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="flask" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="nodejs" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="mysql" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="sqlite" width="40" height="40""")/>>
+<p align="left">
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
 </p>
 
 ### 📱 Mobile Development
 *Fokus pada pengembangan aplikasi native dan cross-platform yang efisien.*
 
-<p align="left"> 
-  <img src="raw.githubusercontent.com" alt="flutter" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="kotlin" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="dart" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="android" width="40" height="40""")/>>
+<p align="left">
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
 </p>
 
-### ☁️ Cloud, Storage & OS
+### ☁️ Cloud & Storage
+*Penyimpanan data dan manajemen aset media.*
 
 <p align="left">
-  <img src="raw.githubusercontent.com" alt="firebase" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="cloudinary" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="linux" width="40" height="40""")/>>
-  <!-- Menggunakan logo vectorzone yang lebih stabil untuk Garuda Linux -->
-  <img src="www.vectorlogo.zone" alt="garuda" width="40" height="40""")/>>
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
 </p>
 
-### 🛠️ Tools & Utility
+### 🛠️ Tools & OS
+*OS dan peralatan untuk meningkatkan efisiensi kerja.*
 
-<p align="left"> 
-  <img src="raw.githubusercontent.com" alt="git" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="tailwind" width="40" height="40""")/>> 
-  <img src="raw.githubusercontent.com" alt="bootstrap" width="40" height="40""")/>>
-  <img src="raw.githubusercontent.com" alt="vscode" width="40" height="40""")/>>
+<p align="left">
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
+  <img src="img.shields.io" />
 </p>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com" target="blank"><img align="center" src="raw.githubusercontent.com" alt="linkedin" height="30" width="40" /></a>
-<a href="instagram.com_" target="blank"><img align="center" src="raw.githubusercontent.com" alt="instagram" height="30" width="40" /></a>
-<a href="discord.gg" target="blank"><img align="center" src="raw.githubusercontent.com" alt="discord" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vio-azuhri-b5a25530a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/ajuzu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://discord.gg/vio_azuhri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
