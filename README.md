@@ -58,9 +58,8 @@
 </p>
 
 
-<h2>💻 My Programming Languages</h2>
+<img src="https://stats.dooboo.io/api/github-stats-advanced?login=viiazuh" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=viiazuh&theme=tokyonight" />
 
 
 ---
