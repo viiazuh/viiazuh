@@ -58,9 +58,15 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com" target="blank"><img align="center" src="raw.githubusercontent.com" alt="linkedin" height="30" width="40" /></a>
-<a href="instagram.com_" target="blank"><img align="center" src="raw.githubusercontent.com" alt="instagram" height="30" width="40" /></a>
-<a href="discord.gg" target="blank"><img align="center" src="raw.githubusercontent.com" alt="discord" height="30" width="40" /></a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40"/>
+  </a>
+  <a href="https://discord.gg" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40"/>
+  </a>
 </p>
+
