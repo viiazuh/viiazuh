@@ -12,7 +12,7 @@
 ---
 
 ### 💻 Full-Stack Development
-*Membangun aplikasi web mulai dari UI (FE) hingga logic server (BE) dan Database.*
+*Building web applications from UI (FE) to server logic (BE) and Database.*
 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -28,7 +28,7 @@
 
 
 ### 📱 Mobile Development
-*Fokus pada pengembangan aplikasi native dan cross-platform yang efisien.*
+*Focus on efficient native and cross-platform application development.*
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
