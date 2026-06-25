@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
-<h3 align="center">A beginner developer from Indonesia</h3>
+<h3 align="center">Technical antusias from indonesia</h3>
 
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viiazuh&label=Profile%20views&color=0e75b6&style=flat" alt="viiazuh" /> </p>
