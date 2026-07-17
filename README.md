@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
-<h3 align="center">Technical antusias from indonesia</h3>
+
+<!-- ANIMASI TYPING TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Technical+enthusiast+from+Indonesia;Mobile+(Flutter%2FKotlin)+Developer;Web+Fullstack+Developer;Building+scalable+apps" alt="Typing Text Animation" />
+</p>
 
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viiazuh&label=Profile%20views&color=0e75b6&style=flat" alt="viiazuh" /> </p>
@@ -26,7 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
 </p>
 
-
 ### 📱 Mobile Development
 *Focus on efficient native and cross-platform application development.*
 
@@ -44,9 +47,7 @@
   <img src="https://cloudinary.com/favicon.ico" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://garudalinux.org/favicon.ico" width="40"/>
-
 </p>
-
 
 ### 🛠️ Tools & Utility
 
@@ -55,6 +56,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+</p>
+
+---
+
+<!-- ANIMASI STATISTIK TOP LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viiazuh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages Vio Azuhri" />
 </p>
 
 ---
