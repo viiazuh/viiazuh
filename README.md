@@ -1,31 +1,45 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
 
-<!-- ANIMASI MATRIX CSS / SVG KUSTOM -->
+<!-- ANIMASI MATRIX TEXT VERTIKAL MURNI SVG -->
 <p align="center">
-  <svg width="500" height="70" viewBox="0 0 500 70" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .matrix-text {
-        font-family: 'Fira Code', monospace, sans-serif;
-        font-weight: 600;
-        font-size: 16px;
-        fill: #00FF66;
-        writing-mode: vertical-rl;
-        text-orientation: upright;
-        letter-spacing: 3px;
-      }
-      .container {
-        animation: fadeIn 2s ease-in-out infinite alternate;
-      }
-      @keyframes fadeIn {
-        0% { opacity: 0.7; }
-        100% { opacity: 1; }
-      }
-    </style>
-    <g class="container">
-      <text x="150" y="10" class="matrix-text">TECHNICAL ENTHUSIAST</text>
-      <text x="260" y="10" class="matrix-text">CROSS-PLATFORM DEV</text>
-      <text x="390" y="10" class="matrix-text">SCALABLE APPS</text>
-    </g>
+  <svg width="450" height="90" viewBox="0 0 450 90" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+          @keyframes matrixGlow {
+            0% { opacity: 0.6; text-shadow: 0 0 2px #00FF66; }
+            100% { opacity: 1; text-shadow: 0 0 8px #00FF66, 0 0 12px #00FF66; }
+          }
+          .matrix-box {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            font-family: 'Fira Code', monospace;
+            font-weight: 600;
+            font-size: 14px;
+            color: #00FF66;
+            text-align: center;
+            animation: matrixGlow 1.5s ease-in-out infinite alternate;
+          }
+          .col {
+            display: flex;
+            flex-direction: column;
+            line-height: 1.2;
+          }
+        </style>
+        <div class="matrix-box">
+          <div class="col">
+            <span>T</span><span>E</span><span>C</span><span>H</span><span>N</span><span>I</span><span>C</span><span>A</span><span>L</span>
+          </div>
+          <div class="col">
+            <span>D</span><span>E</span><span>V</span><span>E</span><span>L</span><span>O</span><span>P</span><span>E</span><span>R</span>
+          </div>
+          <div class="col">
+            <span>S</span><span>C</span><span>A</span><span>L</span><span>A</span><span>B</span><span>L</span><span>E</span>
+          </div>
+        </div>
+      </div>
+    </foreignObject>
   </svg>
 </p>
 
