@@ -1,46 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
 
-<!-- ANIMASI MATRIX TEXT VERTIKAL MURNI SVG -->
+<!-- ANIMASI MATRIX TEXT VERTIKAL AMAN -->
 <p align="center">
-  <svg width="450" height="90" viewBox="0 0 450 90" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <style>
-          @keyframes matrixGlow {
-            0% { opacity: 0.6; text-shadow: 0 0 2px #00FF66; }
-            100% { opacity: 1; text-shadow: 0 0 8px #00FF66, 0 0 12px #00FF66; }
-          }
-          .matrix-box {
-            display: flex;
-            justify-content: center;
-            gap: 25px;
-            font-family: 'Fira Code', monospace;
-            font-weight: 600;
-            font-size: 14px;
-            color: #00FF66;
-            text-align: center;
-            animation: matrixGlow 1.5s ease-in-out infinite alternate;
-          }
-          .col {
-            display: flex;
-            flex-direction: column;
-            line-height: 1.2;
-          }
-        </style>
-        <div class="matrix-box">
-          <div class="col">
-            <span>T</span><span>E</span><span>C</span><span>H</span><span>N</span><span>I</span><span>C</span><span>A</span><span>L</span>
-          </div>
-          <div class="col">
-            <span>D</span><span>E</span><span>V</span><span>E</span><span>L</span><span>O</span><span>P</span><span>E</span><span>R</span>
-          </div>
-          <div class="col">
-            <span>S</span><span>C</span><span>A</span><span>L</span><span>A</span><span>B</span><span>L</span><span>E</span>
-          </div>
-        </div>
-      </div>
-    </foreignObject>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=T.E.C.H.N.I.C.A.L+E.N.T.H.U.S.I.A.S.T;C.R.O.S.S---P.L.A.T.F.O.R.M+D.E.V;B.U.I.L.D.I.N.G+S.C.A.L.A.B.L.E+A.P.P.S" alt="Matrix Vertical Animation" />
 </p>
 
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
