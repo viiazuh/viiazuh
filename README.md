@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
 
-<!-- ANIMASI MATRIX TEXT KE BAWAH -->
+<!-- ANIMASI MATRIX TEXT VERTIKAL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/matrix.gif" alt="Matrix Animation" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=T+e+c+h+n+i+c+a+l+ +E+n+t+h+u+s+i+a+s+t;C+r+o+s+s---P+l+a+t+f+o+r+m+ +D+e+v+e+l+o+p+e+r;B+u+i+l+d+i+n+g+ +S+c+a+l+a+b+l+e+ +A+p+p+s" alt="Matrix Vertical Animation" />
 </p>
 
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
