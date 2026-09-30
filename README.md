@@ -1,8 +1,32 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
 
-<!-- ANIMASI MATRIX TEXT VERTIKAL -->
+<!-- ANIMASI MATRIX CSS / SVG KUSTOM -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=T+e+c+h+n+i+c+a+l+ +E+n+t+h+u+s+i+a+s+t;C+r+o+s+s---P+l+a+t+f+o+r+m+ +D+e+v+e+l+o+p+e+r;B+u+i+l+d+i+n+g+ +S+c+a+l+a+b+l+e+ +A+p+p+s" alt="Matrix Vertical Animation" />
+  <svg width="500" height="70" viewBox="0 0 500 70" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .matrix-text {
+        font-family: 'Fira Code', monospace, sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+        fill: #00FF66;
+        writing-mode: vertical-rl;
+        text-orientation: upright;
+        letter-spacing: 3px;
+      }
+      .container {
+        animation: fadeIn 2s ease-in-out infinite alternate;
+      }
+      @keyframes fadeIn {
+        0% { opacity: 0.7; }
+        100% { opacity: 1; }
+      }
+    </style>
+    <g class="container">
+      <text x="150" y="10" class="matrix-text">TECHNICAL ENTHUSIAST</text>
+      <text x="260" y="10" class="matrix-text">CROSS-PLATFORM DEV</text>
+      <text x="390" y="10" class="matrix-text">SCALABLE APPS</text>
+    </g>
+  </svg>
 </p>
 
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
