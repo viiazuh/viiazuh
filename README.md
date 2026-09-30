@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
 
-<!-- ANIMASI TYPING TEXT -->
+<!-- ANIMASI MATRIX TEXT KE BAWAH -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Technical+enthusiast+from+Indonesia;Cross-Platform+Developer;Building+scalable+apps" alt="Typing Text Animation" />
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/matrix.gif" alt="Matrix Animation" width="100%" />
 </p>
 
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
