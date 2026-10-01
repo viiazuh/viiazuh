@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=120&section=header&text=TECHNICAL%20ENTHUSIAST&fontColor=ffffff&fontSize=30&animation=twinkling" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=CROSS-PLATFORM+DEV;FULL-STACK+DEVELOPER;LINUX+ENTHUSIAST" alt="Typing animation" />
 </p>
 
