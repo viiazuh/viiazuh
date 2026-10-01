@@ -86,61 +86,6 @@ I enjoy exploring different technologies, creating useful applications, and cont
   </a>
 </p>
 
-## 📂 My Projects
-
-### 🚀 Featured Projects
-
-> Add your best projects here. Keep this section focused on projects that best represent your skills.
-
-#### Project One
-
-**[Project Name](PROJECT_LINK)**
-
-[Short description of what the project does and what problem it solves.]
-
-**Features**
-
-* Feature 1
-* Feature 2
-* Feature 3
-
-**Tech:** `Technology 1` · `Technology 2` · `Technology 3`
-
-🔗 [Live Demo](LIVE_DEMO_LINK) · [Source Code](SOURCE_CODE_LINK)
-
----
-
-#### Project Two
-
-**[Project Name](PROJECT_LINK)**
-
-[Short description of the project.]
-
-**Features**
-
-* Feature 1
-* Feature 2
-* Feature 3
-
-**Tech:** `Technology 1` · `Technology 2` · `Technology 3`
-
-🔗 [Live Demo](LIVE_DEMO_LINK) · [Source Code](SOURCE_CODE_LINK)
-
----
-
-## 🛠️ Work in Progress
-
-### 🎯 [Project Name](PROJECT_LINK)
-
-[Short description of the project currently being developed.]
-
-**Currently working on:**
-
-* Planned Feature 1
-* Planned Feature 2
-* Planned Feature 3
-
----
 
 ## 📊 GitHub Stats
 
