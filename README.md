@@ -31,7 +31,6 @@ I enjoy exploring different technologies, creating useful applications, and cont
 ---
 
 ## 🚀 Tech Stack & Skills
-
 <p align="center">
   <!-- Astro -->
   <a href="https://astro.build/" target="_blank">
@@ -41,9 +40,29 @@ I enjoy exploring different technologies, creating useful applications, and cont
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   </a>
+  <!-- Flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  </a>
+  <!-- Flutter -->
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  </a>
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  </a>
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  </a>
+  <!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  </a>
+  <!-- Cloudinary -->
+  <a href="https://cloudinary.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
