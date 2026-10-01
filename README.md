@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
 
 <!-- ANIMASI MATRIX TEXT VERTIKAL AMAN -->
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&section=header&text=VIiAZUH&fontSize=48&fontColor=ffffff&color=gradient&animation=fadeIn" />
+</p>
 
-# VIiAZUH
-
-**Software Developer · Cross-Platform Developer**
-
-Building web, mobile, and desktop experiences.
-
-`JavaScript` · `React` · `Flutter` · `PHP` · `Laravel` · `Linux`
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=600&lines=Software+Developer;Cross-Platform+Developer;Building+with+Code" />
+</p>
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viiazuh&label=Profile%20views&color=0e75b6&style=flat" alt="viiazuh" /> </p>
 
