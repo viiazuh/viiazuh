@@ -2,10 +2,12 @@
 
 <!-- ANIMASI MATRIX TEXT VERTIKAL AMAN -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=TECHNICAL+ENTHUSIAST;CROSS---PLATFORM+DEV" alt="Matrix Vertical Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=120&section=header&text=TECHNICAL%20ENTHUSIAST&fontColor=ffffff&fontSize=30&animation=twinkling" />
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=CROSS-PLATFORM+DEV;FULL-STACK+DEVELOPER;LINUX+ENTHUSIAST" />
+</p>
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viiazuh&label=Profile%20views&color=0e75b6&style=flat" alt="viiazuh" /> </p>
 
