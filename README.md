@@ -3,9 +3,9 @@
 <!-- ANIMASI MATRIX TEXT VERTIKAL AMAN -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,100:00ff66&height=180&section=header&text=TECHNICAL%20ENTHUSIAST&fontSize=38&fontColor=ffffff&animation=scaleIn" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=700&color=00FF66&center=true&vCenter=true&width=700&lines=%5B+BOOTING...+%5D;%5B+INITIALIZING+DEVELOPER+ENVIRONMENT...+%5D;%5B+SYSTEM+READY+%5D;%5B+WELCOME%2C+DEVELOPER+%5D" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=00FF66&center=true&vCenter=true&width=600&lines=CROSS-PLATFORM+DEV;FULL-STACK+DEVELOPER;LINUX+%7C+OPEN+SOURCE" />
+</div>
 
 </div>
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
