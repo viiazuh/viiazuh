@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vio Azuhri</h1>
 
 <!-- ANIMASI MATRIX TEXT VERTIKAL AMAN -->
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:00ff66&height=160&text=TECHNICAL%20ENTHUSIAST&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=700&color=00FF66&center=true&vCenter=true&width=700&lines=%5B+BOOTING...+%5D;%5B+INITIALIZING+DEVELOPER+ENVIRONMENT...+%5D;%5B+SYSTEM+READY+%5D;%5B+WELCOME%2C+DEVELOPER+%5D" />
-
-</div>
-
-</div>
+<p align="center">
+  <code>[ CROSS-PLATFORM DEV ]</code>
+  &nbsp;
+  <code>[ FULL-STACK ]</code>
+  &nbsp;
+  <code>[ LINUX ]</code>
+</p>
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viiazuh&label=Profile%20views&color=0e75b6&style=flat" alt="viiazuh" /> </p>
 
