@@ -3,7 +3,13 @@
 <!-- ANIMASI MATRIX TEXT VERTIKAL AMAN -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=600&color=00FF66&center=true&vCenter=true&width=750&lines=%24+whoami;%3E+TECHNICAL+ENTHUSIAST;%24+cat+skills.txt;%3E+JAVASCRIPT+%7C+REACT+%7C+FLUTTER+%7C+PHP;%24+./start_development.sh;%3E+SYSTEM+READY..." />
+# VIiAZUH
+
+**Software Developer · Cross-Platform Developer**
+
+Building web, mobile, and desktop experiences.
+
+`JavaScript` · `React` · `Flutter` · `PHP` · `Laravel` · `Linux`
 
 </div>
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
