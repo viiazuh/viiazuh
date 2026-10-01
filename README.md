@@ -2,8 +2,9 @@
 
 <!-- ANIMASI MATRIX TEXT VERTIKAL AMAN -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=T.E.C.H.N.I.C.A.L+E.N.T.H.U.S.I.A.S.T;C.R.O.S.S---P.L.A.T.F.O.R.M+D.E.V;B.U.I.L.D.I.N.G+S.C.A.L.A.B.L.E+A.P.P.S" alt="Matrix Vertical Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=TECHNICAL+ENTHUSIAST;CROSS---PLATFORM+DEV" alt="Matrix Vertical Animation" />
 </p>
+
 
 <!-- INI ADALAH KODE VIEW COUNTER KAMU -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viiazuh&label=Profile%20views&color=0e75b6&style=flat" alt="viiazuh" /> </p>
